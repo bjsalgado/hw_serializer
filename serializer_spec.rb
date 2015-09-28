@@ -11,7 +11,7 @@ describe 'Serializer specs' do
     `diff programmers_survey_2014.tsv programmers_survey_2014.tsv2`.must_equal ''
   end
 
-#  after do
-#    `rm *.tsv2 > /dev/null 2>&1; rm *.yml2 > /dev/null 2>&1`
-#  end
+  after do
+    `rm *.tsv2 > /dev/null 2>&1; rm *.yml2 > /dev/null 2>&1`
+  end
 end
