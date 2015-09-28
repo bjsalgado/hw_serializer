@@ -1,0 +1,74 @@
+---
+- date: 9/12/2014 20:47:35
+  student_id: '8763'
+  languages: C++
+  best_language: C++
+  app_experience: Command line applications
+  tech_experience: Database, Web Design
+- date: 9/12/2014 22:03:13
+  student_id: '1742'
+  languages: Java,Python,ruby,Javascript,PHP,ActionScript
+  best_language: ruby
+  app_experience: Command line applications, Web Applications, Database Driven Applications
+  tech_experience: Unix-based OS, Version Control, Database, Regular Expressions,
+    Software Testing, Web Design, Cloud Platforms
+- date: 9/13/2014 8:22:26
+  student_id: '6377'
+  languages: C familiar, Python familiar, R and Matlab OK
+  best_language: Python
+  app_experience: Command line applications, Math/Statistic Applications
+  tech_experience: Unix-based OS, Regular Expressions
+- date: 9/14/2014 13:37:18
+  student_id: '6878'
+  languages: Java, c++
+  best_language: Java
+  app_experience: Command line applications, Web Applications, Server Applications,
+    Math/Statistic Applications, Database Driven Applications
+  tech_experience: Unix-based OS, Database, Software Testing
+- date: 9/14/2014 23:57:58
+  student_id: '7663'
+  languages: Java, C, Python, Linux Shell Script
+  best_language: Linux Shell Script
+  app_experience: Command line applications, Web Applications, Mobile Applications,
+    Server Applications
+  tech_experience: Unix-based OS, Regular Expressions
+- date: 9/15/2014 17:36:56
+  student_id: '1492'
+  languages: 'C, C++, Javascript, PHP '
+  best_language: C++, PHP
+  app_experience: Web Applications
+  tech_experience: Unix-based OS, Database, Web Design
+- date: 9/15/2014 20:56:16
+  student_id: '9717'
+  languages: 'JAVA , C '
+  best_language: JAVA
+  app_experience: Command line applications, Web Applications, Mobile Applications,
+    Database Driven Applications
+  tech_experience: Unix-based OS, Database, Web Design
+- date: 9/17/2014 19:02:03
+  student_id: '3632'
+  languages: c#, javascript, html, xaml, c++, cobol, java, vb, cssc
+  best_language: c#
+  app_experience: Command line applications, Native GUI applications, Web Applications,
+    Mobile Applications, Database Driven Applications
+  tech_experience: Unix-based OS, Database, Web Design
+- date: 9/18/2014 20:32:10
+  student_id: '6995'
+  languages: java , C , javascript , HTML , CSS
+  best_language: java
+  app_experience: Native GUI applications, Web Applications, Mobile Applications,
+    Database Driven Applications
+  tech_experience: Unix-based OS, Database, Regular Expressions, Web Design
+- date: 9/19/2014 1:42:24
+  student_id: '2082'
+  languages: C++, C#, VB.net, HTML+CSS, ASP.net, Java(basic)
+  best_language: HTML+CSS
+  app_experience: Web Applications, Mobile Applications
+  tech_experience: Database, Regular Expressions, Web Design
+- date: 9/20/2014 13:43:24
+  student_id: '6551'
+  languages: Java,C++,VB
+  best_language: VB
+  app_experience: Command line applications, Native GUI applications, Web Applications,
+    Database Driven Applications
+  tech_experience: Version Control, Database, Regular Expressions, Software Testing

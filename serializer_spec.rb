@@ -6,12 +6,12 @@ describe 'Serializer specs' do
     `diff programmers_survey_2014.yml programmers_survey_2014.yml2`.must_equal ''
   end
 
-  it 'should convert tsv to yml' do
+  it 'should convert yml to tsv' do
     `ruby yml_to_tsv.rb programmers_survey_2014.yml programmers_survey_2014.tsv2`
     `diff programmers_survey_2014.tsv programmers_survey_2014.tsv2`.must_equal ''
   end
 
-  after do
-    `rm *.tsv2 > /dev/null 2>&1; rm *.yml2 > /dev/null 2>&1`
-  end
+#  after do
+#    `rm *.tsv2 > /dev/null 2>&1; rm *.yml2 > /dev/null 2>&1`
+#  end
 end
